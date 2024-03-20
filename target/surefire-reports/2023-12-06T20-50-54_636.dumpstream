@@ -1,0 +1,5 @@
+# Created at 2023-12-06T20:50:55.692
+Boot Manifest-JAR contains absolute paths in classpath 'D:\JAVA\.jdks\corretto-1.8.0_392\jre\..\lib\jconsole.jar'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
